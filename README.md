@@ -1,10 +1,3 @@
-# MI_PRIMER_PROYECTO
-\# Mi Primer Proyecto
-
-
-
-\## Sobre mi
-
 Mi Primer Proyecto
 
 Sobre mi
